@@ -1,12 +1,29 @@
+# Worldwide Suicide Overview using Machine Learning
 
-## Worldwide-Suicide-Overview-using-Machine-Learning ##
+## Overview
 
-This project is an analysis of worldwide suicide rates using machine learning techniques. The analysis includes identifying the maximum and minimum suicide rates, gender analysis to determine which gender has the largest reported suicide cases, and age group analysis to determine which age group has the most reported suicide cases. Additionally, it examines the correlation between suicide rates and economic status, population density, and other factors.
+This project is aimed at providing insights into the worldwide suicide rate using machine learning techniques. The following analyses have been performed:
 
-The project utilizes several data structures, including AVL tree for sorting, doubly linked list for the main structure, hash table for searching, and heap (max heap) for max/min sorting (merge sort/bubble sort) and searching (linear, hashing). It also employs a linear regression model and deep learning tools and technologies to predict future cases with the help of gradient.
+- Maximum/Minimum Suicide Rates
+- Linear Regression Model: Predicting future cases with the help of gradient
+- Gender Analysis: Which gender has the largest Suicide cases reported.
+- Age Group: Which age group has the most Suicide cases.
+- Rich Countries and Poor Countries analysis of Suicide Cases
+- Highly Populated and Less Populated Countries Analysis.
 
-Technologies Used
-Programming Language: C++
-IDE: Dev C++ and Xcode (Mac-IOS)
-Data Structures: AVL tree, Doubly LinkedList, Hash Table, Heap (max heap)
-Machine Learning: Linear Regression Model, Deep Learning
+## Data Structures Used
+
+- AVL tree: Sorting
+- Doubly LinkedList (Main)
+- Hash Table: Searching
+- Heap (max heap): Max/Min Sorting (Merge Sort/Bubble Sort)
+- Searching (Linear, Hashing)
+- Linear Regression Model
+- Deep Learning
+
+## Tools and Technologies Used
+
+- Programming Language: C++
+- IDE: Dev C++ and Xcode (Mac-IOS)
+
+
